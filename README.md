@@ -1,4 +1,4 @@
-![img](https://bocchi-api.vercel.app/)\
+
 **Tldr:** Images are **nsfw** obviously.
 
 ## Contribute 💦
